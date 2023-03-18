@@ -1,0 +1,20 @@
+1) 165
+2) 
+Data	    	Suma Uczniow
+04.04.2022	233
+05.04.2022	303
+06.04.2022	134
+07.04.2022	280
+08.04.2022	127
+
+3)
+IdUcznia	Imie		Nazwisko
+314	     	Sebastian	Rabaj
+172	     	Monika		Kado
+299	     	Alicja		Kronecka
+
+4)
+Imie		Nazwisko
+Mateusz		Kordas
+Krzysztof	Michalak
+Oliwier		Ziolko
