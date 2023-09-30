@@ -1,0 +1,2 @@
+Są 44 ciągów arytmetycznych
+Największa różnica to 246849
