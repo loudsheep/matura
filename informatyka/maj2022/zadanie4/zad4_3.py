@@ -14,7 +14,6 @@ def numbers_are_ascending(nums):
 
     return True
 
-
 with open('../Dane_2205/liczby.txt', 'r') as file:
     lines = [int(i.strip()) for i in file.readlines()]
 
