@@ -1,0 +1,16 @@
+1)
+I A, I C
+
+2)
+Data
+11.11.2014
+14.10.2014
+
+3)
+
+Klasa	ŚredniaOfOcena
+IV A	3.53
+IV B	3.45
+IV C	3.4
+IV D	3.9
+IV E	3.51
