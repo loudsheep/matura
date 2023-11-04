@@ -1,0 +1,9 @@
+def potega(a, x, M):
+	if x == 0:
+		return 1
+	if x % 2 == 0:
+		tmp = potega(a, x // 2)
+		return (tmp * tmp) % M
+	if x % 2 == 1:
+		tmp = potega(a, (x - 1) // 2)
+		return (a * tmp * tmp) % M
