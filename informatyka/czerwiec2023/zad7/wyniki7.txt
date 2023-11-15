@@ -1,0 +1,26 @@
+1)
+typ_u	Instalacji
+PC	16
+Phone	2814
+Tablet	267
+
+2)
+Samsung		478
+
+3)
+nazwa_k		NaMilion
+SWITZERLAND	5.28
+SLOVENIA	4.35
+IRELAND		3.91
+AUSTRIA		3.84
+CZECH REPUBLIC	3.76
+
+4)
+kod_u	nazwa_u			PoliczOfkod_k
+11935	Galaxy Tab A (2016)	38
+
+5)
+Select firmy.nazwa, count(*) as liczba FROM firmy
+JOIN Instalacje ON firmy.id_firmy = instalacje.id_firmy
+GROUP BY firmy.id_firmy
+ORDER BY count(*) DESC
