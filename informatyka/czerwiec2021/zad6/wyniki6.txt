@@ -1,0 +1,41 @@
+1) 122
+2)
+Piotrkow Trybunalski
+Grudziadz
+
+3)
+wojewodztwo		AvgKoncertow
+swietokrzyskie		8
+opolskie		7
+lodzkie			7
+lubuskie		6.5
+slaskie			5.53
+malopolskie		5.33
+lubelskie		5
+podkarpackie		5
+dolnoslaskie		4.75
+wielkopolskie		4.25
+kujawsko-pomorskie	4.25
+zachodniopomorskie	4
+podlaskie		4
+warminsko-mazurskie	4
+pomorskie		2.67
+mazowieckie		2.67
+
+4)
+Male nutki
+Stare mandoliny
+Wiosenne bebny
+Powolne fortepiany
+Ciche organy
+Fajne trojkaty
+Rozstrojone pianina
+Metalowe klarnety
+Zlote saksofony
+Piszczace trabki
+
+5)
+nazwa			Weekday		Weekend
+Niebieskie kontrabasy	1		4
+Wiosenne bebny		3		4
+Powolne fortepiany	4		5
