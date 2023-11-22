@@ -1,0 +1,50 @@
+1) 231
+
+2)
+Joshua King Stany Zjednoczone		Joshua Nelson Stany Zjednoczone
+Miguel Barbosa Portugalia		Miguel Rocha Brazylia
+
+3)
+
+Kraj			LiczbaZdjec
+Stany Zjednoczone	61
+Kanada			41
+Polska			33
+Wielka Brytania		32
+Niemcy			29
+Brazylia		27
+Hiszpania		26
+Francja			24
+Rosja			24
+Holandia		22
+
+4)
+Imie		Nazwisko	Wysokosc	Szerokosc
+Antonio		Reyes		1926		1896
+
+5)
+Imie		Nazwisko	Kraj
+Fabian		Aigner	Austria
+Matthias	Becker	Niemcy
+Leonardo	De Luca	Wlochy
+Mehmet		Demir	Turcja
+Keiji		Fukuda	Japonia
+Lovro		Gradic	Chorwacja
+Jayden		Harper	Kanada
+Anton		Ivanov	Rosja
+Davit		Khachatryan	Armenia
+Joshua		King	Stany Zjednoczone
+Artjoms		Klavins	Lotwa
+Said		Koudri	Algieria
+Serhij		Kovalenko	Ukraina
+Nathan		Mercier	Francja
+Cristian	Munteanu	Rumunia
+Jiri		Novotny	Czechy
+Theo		Peeters	Belgia
+Ioannis		Petridis	Grecja
+Sebastian	Quispe	Peru
+Samuel		Ramirez	Stany Zjednoczone
+Allan		Smith	Wielka Brytania
+Hikari		Takeuchi	Japonia
+Hakan		Yilmaz	Turcja
+Aiden		Young	Stany Zjednoczone
