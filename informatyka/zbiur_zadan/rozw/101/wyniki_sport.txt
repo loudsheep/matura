@@ -1,0 +1,38 @@
+1)
+Plec	Ilość uczestniczących
+K	90
+M	45
+
+2)
+Obiekt			Zapłacono
+Active			3334
+Aqua Park		2218
+Bodyfit			2180
+Lady Fitness Club	924
+Platinium Center	1419
+Pure Jatomi		1771
+Redeco			3613
+Spartan			3173
+Top-Gym			1804
+
+3)
+Imie		Nazwisko
+Justyna		Pozarzycka
+Klaudia		Olech
+Maria		Kowalska
+
+4)
+Zajecia		Obiekt		Zajęć
+Silownia	Spartan		127
+
+5)
+Obiekt			Wejść
+Active			339
+Aqua Park		226
+Bodyfit			223
+Lady Fitness Club	84
+Platinium Center	120
+Pure Jatomi		161
+Redeco			383
+Spartan			300
+Top-Gym			164
