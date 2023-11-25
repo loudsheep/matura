@@ -1,0 +1,11 @@
+1) gatunków: 207
+   gatunek g42 ma 20 osobików
+
+2) 8
+
+3) 
+Najwięcej genów: 	11
+Najdłuższy gen: 	189
+
+4) odbporny: 		249
+silnie odporny: 	187
