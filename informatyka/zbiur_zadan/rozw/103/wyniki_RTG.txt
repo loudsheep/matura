@@ -1,0 +1,39 @@
+1)
+Grabowska Waclawa 58  -  17 badań
+
+2)
+NFZ		Koszt
+Dolnoslaski	14414
+Slaski		8540
+Opolski		8490
+Lubuski	7	552
+Pomorski	7351
+Wielkopolski	7080
+Swietokrzyski	5532
+Mazowiecki	5345
+Kujawsko-Pomorski	5317
+Zachodniopomorski	5271
+Lubelski	5097
+Lodzki		4829
+Podlaski	3700
+Podkarpacki	3406
+Małopolski	2399
+Warminsko-Mazurski	358
+
+3)
+a) RTG przedramienia - 352 razy
+b) RTG przedramienia - na 337 pacjentach
+
+4)
+Kobiety - 339
+Mężczyźni - 477
+
+5)
+Dekada	LiczbaPacjentów
+4	2
+5	4
+6	19
+7	95
+8	192
+9	289
+10	215
