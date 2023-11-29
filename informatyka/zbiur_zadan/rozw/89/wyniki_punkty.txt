@@ -1,0 +1,36 @@
+1)
+Bialaszewski	Wiktor
+Cicherski	Szymon
+Florek		Sandra
+Kaminski	Mikolaj
+Krol		Malgorzata
+
+2)
+Najczęściej: 55.6 punktów
+
+Broszkow	Zofia
+Majtas		Lucja
+Murczynska	Laura
+Odya		Kacper
+Sochacka	Inka
+Sokolnicka	Inga
+
+3)
+Grzelecki	Oliwier
+Wojcicki	Aleks
+Rembiewski	Jakub
+Przytula	Jakub
+
+
+4)
+ocena	Liczba ocen	Język polski	Matematyka	Biologia	Geografia
+2	dopuszczający	95		110		101		112
+3	dostateczny	96		106		105		97
+4	dobry		101		100		94		96
+5	bardzo dobry	108		97		110		97
+6	celujący	114		101		104		112
+
+5)
+300
+
+
