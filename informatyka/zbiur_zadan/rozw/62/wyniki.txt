@@ -1,0 +1,15 @@
+1)
+min: 1002
+max: 777044
+
+2)
+pierwszy element: 639
+długość: 6
+
+3)
+a - 160
+b - 357
+
+4)
+w 10tnym: 411
+w 8mkowym: 625
