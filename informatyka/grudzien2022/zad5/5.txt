@@ -1,0 +1,1 @@
+SELECT klienci.imie, klienci.nazwisko, SUM(uslugi_dodatkowe) AS kwota FROM klienci JOIN noclegi ON noclegi.nr_dowodu = klienci.nr_dowodu JOIN uslugi_dodatkowe ON noclegi.id_pobytu = uslugi_dodatkowe.id_pobytu;

@@ -1,0 +1,28 @@
+1)
+imie	nazwisko	nr_dowodu	Dni
+Mateusz	Tokarczyk	KTK945204	9
+
+2)
+imie		nazwisko	Zapłacił
+Marcin		Bober		2240
+Mateusz		Slomka		2220
+Anna		Poplawska	2220
+
+3)
+nr_pokoju
+104
+107
+109
+110
+114
+117
+207
+215
+306
+310
+314
+402
+411
+415
+416
+418

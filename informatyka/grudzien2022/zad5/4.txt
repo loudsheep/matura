@@ -1,0 +1,1 @@
+SELECT rodzaj, COUNT(*) AS ilosc FROM uslugi_dodatkowe GROUP BY rodzaj;
