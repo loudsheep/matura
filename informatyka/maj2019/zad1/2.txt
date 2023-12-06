@@ -1,0 +1,2 @@
+algorytm jest złożoności logarytmicznej
+(przypomina wyszukiwanie binarne)

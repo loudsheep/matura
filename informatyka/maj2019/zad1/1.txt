@@ -1,0 +1,10 @@
+def find_first_even(array):
+    l = len(array)
+
+    if l == 2:
+        return array[1]
+
+    if array[l // 2] % 2 == 0:
+        return find_first_even(array[:(l//2 + 1)])
+    else:
+        return find_first_even(array[(l//2):])

@@ -1,0 +1,51 @@
+1)	Oyal Priather
+	Ologne D'oud
+	Uelques FleuE
+
+2)
+
+rodzina_zapachow	Cena	Nazwa
+
+aromatyczna		124	Oyal Maad
+cytrusowa		259	Sian Grad
+cytrusowo-aromatyczna	178	AmaBond
+drzewna			123	Edre alouse
+kwiatowa		110	Apri03
+kwiatowo-drzewna	104	Oyal Priather
+kwiatowo-orientalna	103	For 1
+kwiatowo-szyprowa	287	Etish Pothal
+orientalna		113	Ythde
+orientalna lagodna	122	Oyal Darine
+orientalno-drzewna	138	Ate An
+owocowa			154	Ventus a Guerre
+pudrowa			139	Old  Aura Maris
+skorzana		112	YstiD'enfer
+szyprowa		226	Ate  Aoud
+szyprowo-skorzana	158	Abarb
+wodna			146	Reed Fam
+zielona			406	Ameau DeDe Rose
+
+3)
+	Aison Eranciro
+	Arthbey
+	Embert Lucas
+	Enmith
+	Nnick a Kieffo
+
+4)
+nazwa_p			PoObizce
+Ourn Boise		141.95
+Onou Back		222.7
+Pic An			230.35
+Nterl Bambola		292.4
+Ubilatio Champs		381.65
+Ibrary Ollec D'or	489.6
+Ate An			544.85
+Elov & Musc		660.45
+
+5)
+Enmith		kwiatowo-orientalna
+Ightce		aromatyczna
+Issmkunstwerke	orientalna
+Nnick a Kieffo	orientalna
+X ICologne	orientalno-drzewna
