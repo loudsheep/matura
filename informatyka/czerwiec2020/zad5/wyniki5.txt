@@ -1,0 +1,49 @@
+1) 
+Rodzina			Liczba
+nigero-kongijska	137
+austronezyjska		65
+indoeuropejska		63
+sino-tybetanska		43
+nilo-saharyjska		30
+afroazjatycka		28
+dajska			23
+austroazjatycka		20
+turecka			15
+drawidyjska		15
+jezyk izolowany		8
+polnocno-wschodniokaukaska	7
+otomang			7
+mongolska		5
+majanska		5
+hmong-mien		4
+abchasko-adygijska	3
+uralska			3
+uto-aztecka		1
+na-dene			1
+tungusko-mandzurska	1
+tupi			1
+algijska		1
+keczua			1
+
+2) 445
+
+3) 
+arabski
+tamilski
+gudzaracki
+angielski
+
+4)
+Jezyk		SumaUzytkownicy
+mandarynski	3.1
+arabski		2.7
+tagalog		1.9
+wietnamski	1.5
+nahuatl		1.4
+koreanski	1.2
+
+5)
+Panstwo		Jezyk		Procent
+Etiopia		oromo		35.51
+Indonezja	jawajski	32.73
+Pakistan	pendzabski	40.44
