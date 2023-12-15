@@ -1,0 +1,1 @@
+SELECT SUM(Sklep.cena) FROM Sklep JOIN Gry ON Gry.id_gry = Sklep.id_gry WHERE Sklep.promocja = true AND Gry.kategoria LIKE "logiczna";

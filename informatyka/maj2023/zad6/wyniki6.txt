@@ -1,0 +1,23 @@
+1)
+miesiąc		nr	maliny	truskawki	przeczki
+maj		5	9238	9287		3309
+czerwiec	6	9485	8916		5081
+lipiec		7	11592	11339		10567
+sierpień	8	11045	11386		11078
+wrzesień	9	6532	7476		6355
+
+
+2) 19
+
+3)
+konfitura		ile razy
+malina truskawka	72
+malina porzeczka	41
+truskawka porzeczka	40
+
+
+4)
+konfitura		ilość
+malina truskawka	29732
+malina porzeczka	18008
+truskawka porzeczka	18382
