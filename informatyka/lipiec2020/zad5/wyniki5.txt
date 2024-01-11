@@ -1,0 +1,39 @@
+1)
+czas_mycia	liczba_klientów
+1		11
+2		9
+3		9
+4		7
+5		6
+6		10
+7		11
+8		6
+9		12
+10		8
+11		16
+12		14
+13		7
+14		12
+15		6
+
+2)
+Miasto 1 auto	-	78
+Miasto 2 auta	-	21
+
+3) 114 klientów przed 20:00
+   ostatni o godz. 19:54
+
+4)
+godz.	klientów
+1	9
+2	8
+3	7
+4	9
+5	5
+6	10
+
+
+5)
+KP566
+44 klientów zrezygnowało
+maksymalnie 3 pod rząd

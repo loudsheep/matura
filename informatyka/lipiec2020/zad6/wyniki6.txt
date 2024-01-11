@@ -1,0 +1,45 @@
+1)
+Kobieta		161
+Mężczyzna	119
+
+2)
+Srod_lok	PoliczOfId
+autobus		1
+pociag		5
+rower		13
+samochod	4
+tramwaj		20
+
+3)
+Wojewodztwo	PoliczOfId
+Dolnoslaskie	30
+Mazowieckie	43
+Slaskie		23
+Wielkopolskie	30
+
+4)
+Imie	Nazwisko	Wojewodztwo
+Maria	Bobowik	Lubelskie
+Elzbieta	Borowska	Malopolskie
+Anna	Borowska	Malopolskie
+Sebastian	Busma	Lubuskie
+Marta	Czajewska	Pomorskie
+Barbara	Dziegielewska	Pomorskie
+Piotr	Gawkowski	Podkarpackie
+Kamila	Glowacka	Swietokrzyskie
+Andrzej	Iwaszczuk	Mazowieckie
+Michal	Janasz	Mazowieckie
+Justyna	Jankowska	Mazowieckie
+Marcin	Jasinski	Mazowieckie
+Grzegorz	Kanadys	Warminsko - Mazurskie
+Katarzyna	Karwowska	Mazowieckie
+Marta	Kimsza	Pomorskie
+Klara	Klimaszewska	Dolnoslaskie
+Emilia	Kobeszko	Lubelskie
+Maria	Korol	Malopolskie
+Piotr	Korzunowicz	Dolnoslaskie
+Karolina	Kozlowska	Mazowieckie
+Monika	Krasowska	Lubelskie
+
+
+5) 3250
