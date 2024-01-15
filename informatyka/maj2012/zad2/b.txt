@@ -1,0 +1,1 @@
+największa liczba czterocyfrowa to 9999 i suma jej cyfr to 36, dlatego dla każdej liczby mniejszej niż 9999 suma cyfr musi być mniejsza od 36

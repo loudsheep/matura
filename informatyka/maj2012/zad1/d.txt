@@ -1,0 +1,6 @@
+Funkcja F(i)
+	j <= i
+	dla k = n, n-1, ..., i:
+		jeżeli a[k] < a[j] to
+			j <= k
+	wynikiem jest j

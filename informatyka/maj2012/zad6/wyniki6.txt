@@ -1,0 +1,54 @@
+1)
+rodzaj_uslugi	SumaOfrata
+L		391790
+W		400713
+
+2)
+Tablica	ozn	nr
+PN3661T	PN	3661T
+PN3651R	PN	3651R
+PN3641B	PN	3641B
+PN3631H	PN	3631H
+PN3621I	PN	3621I
+PN16838	PN	16838
+PN16836	PN	16836
+PN16834	PN	16834
+PN16832	PN	16832
+PN16830	PN	16830
+PN16828	PN	16828
+PN16826	PN	16826
+PN16824	PN	16824
+PN16822	PN	16822
+
+3) WROCBUD2 - 13 pojazdów
+4) 
+bedzinski
+bialostocki
+braniewski
+buski
+elblaski
+elcki
+gorowski
+jeleniogorski
+kluczborski
+koscianski
+leczynski
+lubelski
+nyski
+olawski
+olsztynski
+opolski
+pilski
+siemiatycki
+tarnobrzeski
+tarnogorski
+tarnowski
+turecki
+zamojski
+
+5)
+NIP		firma		ŚredniaOfrata
+1278408463	REFAMUR		2590.12
+1433397952	BARTEX		2325.64
+1620242236	WIET-IND	2556.43
+
