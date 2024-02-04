@@ -1,0 +1,54 @@
+1) 109
+2) 
+Miasto		LiczbaMeczy
+Wiralow		41
+Kukurykow	39
+Szymbark	32
+Preziowo	30
+Bialowo		21
+Gorkowo		18
+Kielkowo	17
+Licowo		15
+Sadelko		15
+Radelko		15
+Koszalkowo	15
+Barylkowo	14
+Orecin		14
+Rezkow		13
+Warkowo		13
+Lewkowo		12
+
+3)
+Imie	Nazwisko	Meczy
+Szymon	Rutkowski	21
+Natalia	Jankowska	36
+Kamila	Majewska	21
+Franciszek	Dudek	27
+Monika	Kowalczyk	26
+Barbara	Kaczmarek	21
+Katarzyna	Olszewska	25
+
+4)
+Jan	Malinowski
+Anna	Nowak
+Agnieszka	Wieczorek
+Kamila	Majewska
+Piotr	Lewandowski
+Franciszek	Dudek
+Barbara	Kaczmarek
+Zofia	Grabowska
+
+5)
+Id_klubu	Nazwa	Miasto	Wygranych	Przegranych
+101	Sfinks	Szymbark	9	7
+102	Zenit	Licowo	8	7
+103	Victoria	Radelko	10	5
+104	Zjednoczeni	Kukurykow	10	8
+106	Olimpia	Orecin	9	5
+109	Stolar	Wiralow	11	9
+110	Astecja	Rezkow	10	3
+111	Bradownia	Preziowo	9	9
+113	Spirca	Lewkowo	6	6
+114	Huraganer	Szymbark	8	8
+118	Waleczni	Preziowo	7	5
+120	Libero	Warkowo	8	5
