@@ -27,6 +27,7 @@ Welcome to my GitHub repository named 'matura'! This space is dedicated to my pr
 
 - **Zbiór Zadań from CKE**: Exercises sourced from official resources to mirror the actual exam structure.
 - **Previous Year's Papers**: Practice with past matura papers to gauge preparation level and understand exam patterns.
+- **Basic algorithms guide**: Written by myself, is a set of most basic algorithms you should know before matura exam
 
 ## Why This Repository? 🤔
 
