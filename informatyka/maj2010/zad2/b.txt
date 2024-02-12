@@ -1,0 +1,2 @@
+Liczba przypisania to 10.
+Tablica jest dzielona na dwie części i wybierana jedna z nich na kolejne dzielenie dopóki wskażnik l i p się nie spotkają. Tablicę 1024 elementową można podzielić na dwa 10 razy log2(1024) = 10
