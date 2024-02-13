@@ -1,0 +1,18 @@
+1)
+magazyn		zamowienia
+Ogrodzieniec	222
+Przemysl	198
+Gniezno		152
+Malbork		183
+
+2)
+8 dni 07.10.2021 - 14.10.2021
+
+3) wykres w pliku excel
+
+4) 
+pierwsze zamówienie: 154 - 19.03.2021
+łącznie zamówień: 37
+liczba butelek: 285230
+
+5) conajmniej 13179 butelek
