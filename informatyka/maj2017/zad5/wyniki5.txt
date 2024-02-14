@@ -1,0 +1,19 @@
+1)
+a)
+L	113
+P	25
+T	6
+
+b) 2007 - 21 meczy
+
+2)
+Nocne Pumy
+Zwinne Mewy
+
+3) 
+Wynik		Ilosc
+Przegrana	452
+Remis		170
+Wygrana		579
+
+4) 22
