@@ -1,0 +1,28 @@
+2)
+K1 - A2
+K2 - D5
+K3 - A5
+K4 - B4
+K5 - D5
+
+3)
+K1 - 8
+K2 - 4
+K3 - 7
+K4 - 8
+K5 - 3
+
+4)
+Wariant standardowy:
+K1 = 94
+K2 = 57
+K3 = 82
+K4 = 126
+K5 = 41
+
+Wariant regionalny:
+K1 = 97
+K2 = 56
+K3 = 82
+K4 = 127
+K5 = 38
