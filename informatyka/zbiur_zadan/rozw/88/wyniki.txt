@@ -1,0 +1,9 @@
+1) sprzedanych 592, zostało na placu 8
+2) WYKRES W PLIKU EXCEL
+3) 11 dnia
+4) 
+17 dostaw
+W dni: 1,4,6,8,10,11,12,14,15,16,17,18,20,21,22,23,24
+Sprzedanych choinek: 819
+
+5) 35 choinek codziennie, 24 grudnia zostanie 21 drzewek
