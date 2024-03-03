@@ -1,0 +1,43 @@
+1) Ewelina Adamska
+2) 
+Rzymski		42
+Rzepka		42
+Kolarski	41
+Laska		41
+Maskor		41
+Budzianowska	41
+
+3) 
+Miasto	Koszt
+Radom	27599.5
+Siedlce	34215.4
+Zgierz	38263.5
+Kutno	43372.8
+Kielce	48014.7
+Olsztyn	50606.6
+Kalisz	51099
+Lublin	53209.5
+Mielec	54144
+Bydgoszcz	63932
+Krakow	80344.5
+Katowice	81486.3
+Malbork	84280
+
+4)
+Mies	Ilość
+1	130
+2	68
+3	63
+4	32
+5	31
+6	63
+7	70
+8	54
+9	121
+10	103
+11	135
+12	130
+
+5)
+Średnia wszystkich ilości noclegów:		1.64
+Średnia nocelgów w wyjazdac powyżej 2 dni:	2.25
