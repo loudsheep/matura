@@ -1,0 +1,11 @@
+1) 42
+2) 
+min ->	3.64 (1953)
+max ->	10.85 (1982)
+
+4) 
+Początek: luty 1994
+Konie: luty 1995
+Długość: 13 miesięcy
+
+5) 15 lat
