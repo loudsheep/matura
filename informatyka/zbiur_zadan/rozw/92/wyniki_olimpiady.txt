@@ -1,0 +1,31 @@
+1)
+Liczba państw: 54
+Liczba medali: 1218
+
+2)
+Kontynent	Letnie	Zimowe
+Azja		422	177
+Afryka		297	30
+Ameryka Pld.	218	52
+Australia i Oc.	55	34
+Europa		682	571
+Ameryka Pln.	236	88
+
+3)
+Burundi
+Kamerun
+Zjednoczone Emiraty Arabskie
+
+4)
+Kontynent	Medali	Kraj
+Azja		526	Chiny
+Afryka		86	Kenia
+Ameryka Pld.	108	Brazylia
+Australia i Oc.	480	Australia
+Europa		1204	ZSRR
+Ameryka Pln.	2681	StanyZjednoczone
+
+5)
+letnich:	35
+zimowych:	3
+
