@@ -1,0 +1,15 @@
+1) 6 maja 2015 => dolano 13172 litrów
+2)
+3)
+miesiąc	dolana_woda	koszt dolania
+4	0		0
+5	13172		164.36
+6	89444		1056.6
+7	217938		2559.32
+8	310099		3651.14
+9	112774		1326.62
+
+4)
+temperatura powietrza nie przekraczała 15°C						88
+temperatura przekraczała 15°C, a jednocześnie opady dobowe nie przekraczały 0,6 l/m2	73
+temperatura przekraczała 15°C i jednocześnie opady dobowe przekraczały 0,6 l/m2		22
