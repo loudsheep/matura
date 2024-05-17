@@ -1,0 +1,46 @@
+1)
+miejsce_docelowe	IloscDni
+Warszawa		83
+Dusseldorf		78
+Warszawa Modlin		68
+
+2)
+imie		nazwisko	IloscBiletow
+Artur		Lipinski	16
+Marta		Wilkonska	18
+Magdalena	Wronikowska	19
+Joanna		Krankowska	16
+Marcin		Wirowski	16
+
+3)
+Miesiac	Ilosc
+4	72
+5	87
+6	95
+
+4)
+imie	nazwisko
+Anna	Gumowska
+Amelia	Hanke
+Waldemar	Kowal
+Jan	Krupa
+Mariola	Krupa
+Jakub	Kupinski
+Artur	Lipinski
+Krystyna	Lis
+Beata	Pawlikowska
+Monika	Sibilska
+Jowita	Tobera
+Agnieszka	Waruszewska
+Agata	Wilczek
+Marcin	Wirowski
+Sylwester	Wojtas
+Monika	Zawadzka
+
+5)
+id_lotu	miejsce_docelowe
+21	Bolonia
+99	Barcelona
+316	Warszawa
+522	Liverpool
+987	Oslo Torp
