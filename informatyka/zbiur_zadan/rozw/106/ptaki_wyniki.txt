@@ -1,0 +1,42 @@
+1)
+bogatka
+sroka
+myszolow
+
+2)
+Miesiac	Ilosc
+5	2
+6	9
+7	3
+8	12
+9	2
+
+3)
+nazwa_zwyczajowa	Ilosc
+gawron			7
+kawka			16
+kruk			7
+wrona siwa		20
+
+4a)
+lokalizacja	poczatek		koniec			CzasTrwania	LiczbaOsobnikow
+Tadzino		18.07.2014 05:00:00	18.07.2014 21:00:00	960		13
+
+4b)
+lokalizacja	poczatek	koniec	Sprawnosc
+Jezioro Zarnowieckie	03.12.2014 09:00:00	03.12.2014 09:40:00	143.875
+
+5a)
+84
+
+5b)
+
+powiat	brak informacji	gniazduje	leci	odpoczywa	zeruje
+chojnicki					2
+gdanski	7		35	3	8
+kartuski			1	6	
+koscierski			120		
+malborski	5				
+pucki	111		580		90
+starogardzki	307				
+wejherowski		22	243	17	67
