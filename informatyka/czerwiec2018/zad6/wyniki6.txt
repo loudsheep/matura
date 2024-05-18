@@ -1,0 +1,28 @@
+1)
+Pierwszy wiersz:
+Nazwisko	Imie	Nr_rej	OkresWypozyczenia	Naleznosc
+Aabacka		Nela	WI1150	2			160
+
+Ostatni wiersz:
+Nazwisko	Imie	Nr_rej	OkresWypozyczenia	Naleznosc
+Zgbacka		Aaricia	WI1126	11			880
+
+2)
+Klasa	Ilosc
+B	100
+C	48
+D	53
+
+3)
+Imie	Nazwisko	Ilosc
+Ramzes	Hcbacki		5
+
+4)
+Miejscowosc	B	C	D
+Aniolkowo	12	8	7
+Manipulatowo	31	14	11
+Nieszczerzyn	17	9	4
+Piarowa		16	18	8
+Wielka Wola	25	11	7
+
+5) 72

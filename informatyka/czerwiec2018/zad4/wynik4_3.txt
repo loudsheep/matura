@@ -1,0 +1,2 @@
+wiersz: 999
+ilość wierszy: 1
