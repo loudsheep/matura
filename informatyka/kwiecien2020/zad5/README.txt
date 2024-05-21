@@ -1,0 +1,1 @@
+To zadanie 1:1 jest z matury czerwiec 2019 (zad 5) i już je zrobiłem
